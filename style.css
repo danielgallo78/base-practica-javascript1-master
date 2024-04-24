@@ -1,8 +1,9 @@
 body {
     margin: 0;
+    
 }
 .principal{
-    text-align: center;
+    text-align:center;
     background-color: #f3edd2;
     padding: 7px;
 
@@ -12,7 +13,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 25%;
+    width: 23%;
     background-color: #f3edd2;
     position:fixed;
     height: 100%;
@@ -89,4 +90,5 @@ button {
     margin-left: 25%;
     padding: 1px 16px;
     height: 1000px;
+
 }
